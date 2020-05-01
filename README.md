@@ -1,6 +1,7 @@
 # TODO List
 
 A simple app to *manage your daily task*
+It uses HTML5 and CSS3.
 
 ## Features
 
